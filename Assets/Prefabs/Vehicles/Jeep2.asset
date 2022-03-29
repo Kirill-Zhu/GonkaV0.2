@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baa225eeb3602314f80f51baa675476e, type: 3}
+  m_Name: Jeep2
+  m_EditorClassIdentifier: 
+  name: 
+  horsePower: 1553.5714
+  backWheelRadius: 0.26920754
+  frontWheelRadius: 0.78618276
+  forwardSpring: 60000
+  backSpring: 60000
+  forwardDamper: 6000
+  backDamper: 6000
+  breakForce: 5000
+  forwardTargetPosition: 0.5
+  backTargetPosition: 0
+  centerOfMass: {x: 0, y: -0.73, z: 0}
